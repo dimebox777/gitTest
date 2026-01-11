@@ -1,0 +1,101 @@
+record_id,financial_institution,product_offer,rating,province,reviewer_type,review_date
+1,National Bank of Canada,Business Loan,3,SK,Corporate Client,2024-04-27
+2,CIBC,Mortgage,8,YT,Small Business,2024-04-17
+3,TD Canada Trust,Credit Card,7,PE,Corporate Client,2024-05-12
+4,Scotiabank,Personal Loan,4,NS,Retail Customer,2024-09-26
+5,Desjardins,Mortgage,6,NU,Retail Customer,2024-11-25
+6,Scotiabank,Visa Card,3,NU,Small Business,2024-01-06
+7,Scotiabank,Personal Loan,3,NT,Corporate Client,2024-02-12
+8,RBC Royal Bank,Savings Account,10,NU,Small Business,2024-08-07
+9,BMO Bank of Montreal,Mastercard,1,YT,Corporate Client,2024-09-24
+10,Scotiabank,Momentum Savings,6,SK,Small Business,2024-12-26
+11,BMO Bank of Montreal,Mastercard,5,QC,Retail Customer,2024-09-25
+12,Desjardins,Personal Loan,6,BC,Retail Customer,2024-04-18
+13,Scotiabank,Visa Card,9,SK,Corporate Client,2024-09-28
+14,CIBC,Smart Account,9,BC,Small Business,2024-08-14
+15,National Bank of Canada,Credit Card,6,BC,Small Business,2024-05-25
+16,TD Canada Trust,Auto Loan,0,QC,Retail Customer,2024-01-04
+17,CIBC,Smart Account,3,NT,Retail Customer,2024-06-11
+18,National Bank of Canada,Credit Card,6,BC,Retail Customer,2024-02-08
+19,Scotiabank,Personal Loan,5,AB,Corporate Client,2024-06-13
+20,CIBC,Personal Loan,5,YT,Small Business,2024-02-21
+21,CIBC,Aventura Credit Card,6,SK,Small Business,2024-04-19
+22,National Bank of Canada,Business Loan,1,NU,Corporate Client,2024-07-11
+23,Desjardins,Savings Account,0,BC,Corporate Client,2024-04-13
+24,TD Canada Trust,Chequing Account,3,PE,Corporate Client,2024-01-17
+25,RBC Royal Bank,Personal Loan,6,PE,Small Business,2024-05-16
+26,National Bank of Canada,Chequing Account,8,ON,Retail Customer,2024-02-01
+27,Desjardins,Savings Account,5,NB,Corporate Client,2024-07-02
+28,RBC Royal Bank,Personal Loan,10,BC,Small Business,2024-07-28
+29,TD Canada Trust,Credit Card,2,PE,Small Business,2024-12-02
+30,National Bank of Canada,Mortgage,9,BC,Retail Customer,2024-12-23
+31,BMO Bank of Montreal,Personal Loan,9,NT,Small Business,2024-06-03
+32,TD Canada Trust,Auto Loan,0,NS,Small Business,2024-04-27
+33,Scotiabank,Personal Loan,9,AB,Corporate Client,2024-12-11
+34,BMO Bank of Montreal,Mastercard,8,NT,Corporate Client,2024-03-23
+35,TD Canada Trust,Mortgage,4,NB,Corporate Client,2024-04-17
+36,CIBC,Mortgage,4,BC,Small Business,2024-05-09
+37,BMO Bank of Montreal,Personal Loan,0,BC,Small Business,2024-11-28
+38,National Bank of Canada,Business Loan,8,ON,Retail Customer,2024-11-28
+39,CIBC,Personal Loan,0,ON,Corporate Client,2024-11-06
+40,National Bank of Canada,Mortgage,6,NL,Retail Customer,2024-01-23
+41,RBC Royal Bank,Personal Loan,8,AB,Small Business,2024-11-14
+42,Scotiabank,Mortgage,0,BC,Retail Customer,2024-04-24
+43,BMO Bank of Montreal,Mortgage,2,ON,Retail Customer,2024-06-07
+44,RBC Royal Bank,Credit Card,4,NT,Retail Customer,2024-11-28
+45,National Bank of Canada,Business Loan,2,MB,Retail Customer,2024-05-28
+46,RBC Royal Bank,Credit Card,4,MB,Corporate Client,2024-12-13
+47,Scotiabank,Visa Card,8,MB,Retail Customer,2024-01-02
+48,National Bank of Canada,Business Loan,2,NT,Retail Customer,2024-01-09
+49,BMO Bank of Montreal,Mastercard,10,QC,Small Business,2024-12-22
+50,BMO Bank of Montreal,Mastercard,5,SK,Small Business,2024-02-05
+51,CIBC,Aventura Credit Card,6,PE,Small Business,2024-06-21
+52,RBC Royal Bank,Personal Loan,5,MB,Corporate Client,2024-12-08
+53,Scotiabank,Visa Card,5,ON,Corporate Client,2024-04-23
+54,RBC Royal Bank,Savings Account,7,NB,Retail Customer,2024-12-11
+55,CIBC,Smart Account,1,NB,Retail Customer,2024-02-09
+56,Scotiabank,Personal Loan,9,PE,Corporate Client,2024-02-16
+57,RBC Royal Bank,Mortgage,5,NS,Small Business,2024-12-16
+58,RBC Royal Bank,Mortgage,10,NU,Corporate Client,2024-02-21
+59,National Bank of Canada,Credit Card,1,MB,Retail Customer,2024-08-05
+60,CIBC,Aventura Credit Card,2,SK,Retail Customer,2024-02-13
+61,CIBC,Aventura Credit Card,8,NS,Retail Customer,2024-05-16
+62,BMO Bank of Montreal,Chequing Account,9,NB,Retail Customer,2024-08-07
+63,CIBC,Mortgage,5,MB,Corporate Client,2024-05-19
+64,CIBC,Aventura Credit Card,6,AB,Retail Customer,2024-02-16
+65,CIBC,Mortgage,7,MB,Small Business,2024-03-13
+66,CIBC,Smart Account,9,NL,Corporate Client,2024-02-13
+67,Desjardins,Personal Loan,1,NT,Corporate Client,2024-07-04
+68,TD Canada Trust,Mortgage,9,SK,Small Business,2024-01-07
+69,TD Canada Trust,Mortgage,9,YT,Retail Customer,2024-09-30
+70,RBC Royal Bank,Mortgage,9,NT,Retail Customer,2024-01-11
+71,Scotiabank,Visa Card,8,NT,Retail Customer,2024-06-02
+72,CIBC,Smart Account,7,NU,Retail Customer,2024-09-11
+73,Scotiabank,Momentum Savings,7,YT,Small Business,2024-01-24
+74,RBC Royal Bank,Personal Loan,9,SK,Small Business,2024-07-06
+75,National Bank of Canada,Business Loan,5,MB,Corporate Client,2024-04-08
+76,CIBC,Mortgage,1,YT,Corporate Client,2024-11-11
+77,CIBC,Aventura Credit Card,2,SK,Retail Customer,2024-01-06
+78,Desjardins,Mortgage,9,MB,Small Business,2024-09-07
+79,Desjardins,Credit Card,10,SK,Small Business,2024-04-28
+80,TD Canada Trust,Auto Loan,9,QC,Corporate Client,2024-11-22
+81,National Bank of Canada,Chequing Account,6,SK,Retail Customer,2024-02-04
+82,Scotiabank,Personal Loan,2,NS,Retail Customer,2024-12-04
+83,CIBC,Personal Loan,9,BC,Retail Customer,2024-01-04
+84,CIBC,Personal Loan,2,MB,Small Business,2024-04-12
+85,CIBC,Aventura Credit Card,7,YT,Retail Customer,2024-08-17
+86,RBC Royal Bank,Mortgage,5,QC,Corporate Client,2024-11-15
+87,CIBC,Aventura Credit Card,9,QC,Small Business,2024-05-25
+88,Desjardins,Mortgage,5,SK,Retail Customer,2024-02-05
+89,TD Canada Trust,Credit Card,0,NT,Small Business,2024-03-01
+90,TD Canada Trust,Mortgage,9,SK,Small Business,2024-09-12
+91,TD Canada Trust,Chequing Account,6,YT,Retail Customer,2024-07-15
+92,Scotiabank,Personal Loan,7,BC,Corporate Client,2024-01-17
+93,Scotiabank,Visa Card,1,QC,Small Business,2024-10-11
+94,Scotiabank,Visa Card,3,NB,Corporate Client,2024-06-14
+95,TD Canada Trust,Credit Card,1,QC,Small Business,2024-09-06
+96,National Bank of Canada,Mortgage,0,YT,Small Business,2024-08-30
+97,Desjardins,Personal Loan,5,NS,Retail Customer,2024-12-04
+98,BMO Bank of Montreal,Personal Loan,4,QC,Corporate Client,2024-08-31
+99,Desjardins,Savings Account,8,QC,Small Business,2024-10-23
+100,RBC Royal Bank,Credit Card,1,SK,Small Business,2024-01-16
